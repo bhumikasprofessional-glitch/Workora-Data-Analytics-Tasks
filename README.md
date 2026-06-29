@@ -16,3 +16,11 @@ This module constructs an exploratory clickstream tracking matrix to understand 
 ### 2. Analytical Findings
 * **User Journeys Framework:** The distribution charts clearly show the split between baseline abandonment points and high-intensity sessions.
 * **Session Intensity Tracking:** Scatter distributions illustrate a direct positive correlation between multi-page view activities and session lengths, isolating ideal parameters for targeted digital retention.
+## --- Module 4 Task: Geospatial Data Analysis Pipeline ---
+
+### 1. Objective & Expansion Strategy
+This system models regional data vectors across global market zones to optimize business scaling paths. By cross-referencing order volume (Demand) against customer feedback indexes, the module isolates regions with high market interest but low infrastructure presence to prevent overhead losses.
+
+### 2. Strategic Insights
+* **Demand Profiles:** Distribution plots identify top-performing macro territories anchoring core transactional traffic.
+* **Expansion Grid Analysis:** The scatter grid isolates potential geographic expansion targets where customer metrics remain high but resource allocation is currently limited.
